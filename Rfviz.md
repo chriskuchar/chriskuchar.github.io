@@ -205,10 +205,9 @@ Note:
 
 -   in this report, the seed is set for reproducibility of the random forest. It is optional.
 
-<img src="https://github.com/chrisbeckett8/chrisbeckett8.github.io/blob/master/pictures/Three_Plots_Example.png" alt="\label{fig:fig2}Figure 2: Rfviz plots for the iris data" width="900px" height="700px" />
-<p class="caption">
+![Figure 2: Rfviz plots for the iris data]({{site.url}}{{site.baseurl}}/Three_Plots_Example.png)
+
 Figure 2: Rfviz plots for the iris data
-</p>
 
 The random forests object produced by rf\_prep can be examined using the rf element of the output:
 
