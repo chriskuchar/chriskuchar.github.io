@@ -122,8 +122,9 @@ Static parallel coordinate plots are not particularly good for discovering relat
 
 Figure 1 shows an example of a parallel coordinate plot for the mtcars data in R. Each line represents one car, and the different attributes for the car are plotted on the axes.
 
+![Figure 1-1](https://github.com/chrisbeckett8/chrisbeckett8.github.io/blob/master/pictures/Parallel.png "Figure 1-1")
 
-![alt-text]({{site.url}}/Parallel.jpg)
+![alt-text]({{site.url}}/Parallel.png)
 
 <img src="https://github.com/chrisbeckett8/chrisbeckett8.github.io/blob/master/pictures/Parallel.png" alt="\label{fig:fig1}Figure 1: Parallel coordinate plot" width="700px" height="700px" />
 <p class="caption">
