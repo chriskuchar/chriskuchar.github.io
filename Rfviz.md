@@ -154,7 +154,7 @@ The arguments for rf\_prep are:
 
 -   y: the response variable.
 
--   ...: to change or include any parameter of Random Forests besides localImp=True, or proximity=True, as those are vital to the output of the graphs.
+-   ... : to change or include any parameter of Random Forests besides localImp=True, or proximity=True, as those are vital to the output of the graphs.
 
 The output of rf\_prep is:
 
