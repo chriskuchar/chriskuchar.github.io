@@ -15,6 +15,7 @@
 RFVIZ: AN INTERACTIVE VISUALIZATION PACKAGE FOR RANDOM FORESTS IN R
 
 By: Chris Beckett
+
 Email: chrisbeckett8@gmail.com
 
 ABSTRACT
