@@ -1,5 +1,5 @@
-title: [Rfviz]
-description: [RFVIZ: AN INTERACTIVE VISUALIZATION PACKAGE FOR RANDOM FORESTS IN R]
+title: [RFVIZ]
+description: [AN INTERACTIVE VISUALIZATION PACKAGE FOR RANDOM FORESTS IN R]
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
