@@ -288,7 +288,7 @@ Any point(s) selected of any of the plots will be omitted from all plots using t
 
 Figure 6: Remove data using the deactivate button
 
-![Figure 7: Select more data]({{site.url}}/picturesSelection3.png)
+![Figure 7: Select more data]({{site.url}}/pictures/Selection3.png)
 
 Figure 7: Select more data
 
