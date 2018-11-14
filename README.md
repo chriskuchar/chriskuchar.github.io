@@ -13,7 +13,7 @@ For installation, use devtools::install_github("chrisbeckett8/rfviz") and librar
 Citation Recommendation:
 @manual{cb3,
 	author = {C Beckett},
-	title = {Rfviz: An Interactive Visualization Packge for Random Forests in R},
+	title = {Rfviz: An Interactive Visualization Package for Random Forests in R},
 	year = {2018},
 	url = {https://chrisbeckett8.github.io/Rfviz},
 }
