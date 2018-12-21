@@ -8,9 +8,9 @@ Random forests are very popular tools for predictive analysis and data science. 
 
 Please read "Rfviz.md" or visit "https://github.com/chrisbeckett8/rfviz" for documentation and/or source code, or go to https://chrisbeckett8.github.io/Rfviz for the website version of the markdown. 
 
-For installation, this package is available on CRAN. Use install.packages("rfviz") within R to download it.
+This package is available on CRAN. Use install.packages("rfviz") within R to download it.
 
-If installation fails, make sure you have the most recent version of R, make sure your computer has the most recent update and install xtools if you are using a Mac, using this guide "http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/".
+If installation fails, make sure you have the most recent version of R, make sure your computer has the most recent update and install xtools if you are using a Mac, using this guide: "http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/".
 
 Citation Recommendation:
 @manual{cb3,
